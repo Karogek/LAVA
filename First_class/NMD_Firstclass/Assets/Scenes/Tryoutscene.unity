@@ -1086,7 +1086,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 43.6
+  field of view: 75
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1113,7 +1113,7 @@ Transform:
   m_GameObject: {fileID: 920565610}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.71486896, z: -0, w: 0.6992585}
-  m_LocalPosition: {x: -6.64, y: -0.08, z: 0.02}
+  m_LocalPosition: {x: -6.64, y: 1.81, z: 0.02}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1577,7 +1577,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2789884932413529449, guid: 2b4a454f83e5146d3b85091b13dbffa3, type: 3}
       propertyPath: m_Materials.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2789884932413529449, guid: 2b4a454f83e5146d3b85091b13dbffa3, type: 3}
       propertyPath: m_Materials.Array.data[1]
@@ -1585,7 +1585,7 @@ PrefabInstance:
       objectReference: {fileID: 7068454463712137107, guid: 2b4a454f83e5146d3b85091b13dbffa3, type: 3}
     - target: {fileID: 2789884932413529449, guid: 2b4a454f83e5146d3b85091b13dbffa3, type: 3}
       propertyPath: m_SelectedEditorRenderState
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9128129917791069459, guid: 2b4a454f83e5146d3b85091b13dbffa3, type: 3}
       propertyPath: m_LocalScale.y
